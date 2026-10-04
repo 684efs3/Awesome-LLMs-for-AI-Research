@@ -106,3 +106,7 @@ If you have any questions or suggestions, please contact us via:
 Made with ❤️ by FinD Lab @ ICT, CAS
 
 </div>
+
+
+## Resources
+- **Model rankings:** [modelbenchmark.io](https://modelbenchmark.io) — Independent AI model rankings for 202 models across 16 public benchmarks.
